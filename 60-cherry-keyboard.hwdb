@@ -1,0 +1,8 @@
+evdev:input:b0003v046Ap0001*
+ KEYBOARD_KEY_700e2=leftmeta    #old Alt: use windows instead
+ KEYBOARD_KEY_70064=leftalt     #old chevron : use alt instead
+ KEYBOARD_KEY_70049=102nd       #old Ins: use chevron instead
+ KEYBOARD_KEY_70040=190         #old F7: use microphone mute instead
+ KEYBOARD_KEY_70041=113         #old F8: use sound mute instead
+ KEYBOARD_KEY_70042=114         #old F9: use sound - instead
+ KEYBOARD_KEY_70043=115         #old F10: use sound + instead
